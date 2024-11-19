@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning how to work with NearleyJS. I think we can do some cool things with text generation.
 
-📫 How to reach me: [My Site](https://ericterry.us) || [Twitter](https://twitter.com/eterry28) 
+📫 How to reach me: [My Site](https://ericterry.us) || [BlueSky](@eterry28.bsky.social) 
 
 ⚡ Fun fact: I have been on the front lines of healthcare. It's not pretty.
 
